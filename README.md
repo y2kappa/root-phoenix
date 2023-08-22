@@ -1,7 +1,7 @@
 # Root - Powerful on-chain market making
 
 <div align="center">
-  <img height="170x" src="https://i.ibb.co/mc6TBCW/d.png" />
+  <img height="500x" src="https://i.ibb.co/mc6TBCW/d.png" />
 </div>
 
 Root is an AMM protocol built on top of Phoenix. Root lets users to deploy market making vaults with trading strategies such as Avellaneda Stoikov in a permission-less and user-friendly way.
