@@ -1,9 +1,5 @@
 # Root - Powerful on-chain market making
 
-<div align="center">
-  <img height="500x" src="https://i.ibb.co/mc6TBCW/d.png" />
-</div>
-
 Root is an AMM protocol built on top of Phoenix. Root lets users to deploy market making vaults with trading strategies such as Avellaneda Stoikov in a permission-less and user-friendly way.
 
 For the OPOS hackathon, we have implemented a simplified Avellaneda-Stoikov market making strategy with following features:
@@ -23,6 +19,10 @@ We have also implemented a simplified VolatilityAccumulator that calculates hist
 The core mission of Root is to democratize profitable market making for all users and build trading tools that are powerful yet easy to use.
 
 # Technical Architecture
+
+<div align="center">
+  <img height="500x" src="https://i.ibb.co/mc6TBCW/d.png" />
+</div>
  
  At the core of Root are vaults, and strategies. Users can create vaults for every fungible token market on Phoenix. Each vault has an associated strategy that defines the trading logic on how the user funds are to be used for trading. Users can customize the strategies by selecting their preferences over particular strategies.
  
