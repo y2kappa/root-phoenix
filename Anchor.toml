@@ -8,7 +8,7 @@ root_mm = "FYiqpVa5WM8mXEz1VQF3DzJRLUrkNS3Y86HfQnREMyt3"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "https://solitary-orbital-sheet.solana-mainnet.quiknode.pro/05d455acb67a72d87bad972ed175c31aead941e3/"
 wallet = "/Users/dhrumil/.config/solana/id.json"
 
 [scripts]
